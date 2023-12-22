@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40476340178",
+    "project_id": "majorsmatch",
+    "storage_bucket": "majorsmatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40476340178:android:e065e42385ee4a0aa7a20b",
+        "android_client_info": {
+          "package_name": "capstone.product.tim.majorsmatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtnARlZzdURv2lzZ6l1e6QuWXK9A6lFYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
